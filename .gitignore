@@ -15,3 +15,11 @@ venv/
 # Temporary files
 *.log
 .DS_Store
+
+# Videos - local only
+/Videos/
+
+
+# PDF course materials - local only
+*.pdf
+
